@@ -286,7 +286,7 @@ sudo pcs property set no-quorum-policy=ignore
 
 ## 🤝 Como Contribuir
 
-**Consulte: [`CONTRIBUTING.md`](CONTRIBUTING.MD)
+Veja o arquivo [`CONTRIBUTING.md`](CONTRIBUTING.MD) para mais detalhes.
 
 ---
 
