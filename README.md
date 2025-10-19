@@ -25,7 +25,7 @@ O curso está dividido nos seguintes módulos, separados para facilitar a navega
 *   **Módulo 07: Tópicos Avançados e Casos de Uso Reais**
     *   Aprofunda em gerenciamento de VMs com Pacemaker, Pacemaker Remote e integração com serviços específicos como bancos de dados e servidores web.
 *   **Módulo 08: Índice e Materiais Complementares**
-    *   Um índice completo do curso e links complementares.
+    *   Um índice completo do curso e materiais complementares com leituras adicionais.
 
 Espero que este material seja **muito útil** para você e para quem deseja aprender sobre Pacemaker Linux!
 
