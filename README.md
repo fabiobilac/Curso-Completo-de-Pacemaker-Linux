@@ -24,8 +24,8 @@ O curso está dividido nos seguintes módulos, separados para facilitar a navega
     *   Ensina a usar comandos `pcs` e logs para monitorar o cluster e diagnosticar problemas comuns.
 *   **Módulo 07: Tópicos Avançados e Casos de Uso Reais**
     *   Aprofunda em gerenciamento de VMs com Pacemaker, Pacemaker Remote e integração com serviços específicos como bancos de dados e servidores web.
-*   **Módulo 08: Índice, Guia de Instalação do Ambiente e Materiais Complementares**
-    *   Serve como um guia consolidado para a montagem do ambiente de laboratório e um índice completo do curso.
+*   **Módulo 08: Índice e Materiais Complementares**
+    *   Um índice completo do curso e links complementares.
 
 Espero que este material seja **muito útil** para você e para quem deseja aprender sobre Pacemaker Linux!
 
